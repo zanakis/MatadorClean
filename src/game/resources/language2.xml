@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<strings>
+	<welcome>Velkommen til spillet, indtast 2-6 navne. Når alle navne er indtastet, trykkes der ok, uden at indtaste et navn og spillet vil starte</welcome>
+	<promptName>Indtast navn på spiller</promptName>
+	<promptName>Lad feltet være tomt for at starte spillet</promptName>
+	<promptName>Du skal indtaste mindst tre navne</promptName>
+	<starting>starter</starting>
+	<rollDice>Kast terningerne</rollDice>
+	<winner>har vundet spillet. Ønskes omspil?</winner>
+	<withdraw>Der bliver trukket</withdraw>
+	<withdraw>fra din konto.</withdraw>
+	<deposit>Der bliver sat</deposit>
+	<deposit>ind på din konto.</deposit>
+	<isOwner>Du ejer selv feltet, og skal ikke betale leje</isOwner>
+	<transfer>Du overfører</transfer>
+	<transfer>til</transfer>
+	<lowBalance>Du har ikke råd til at købe feltet</lowBalance>
+	<declinedBuy>Du har valgt ikke at købe feltet</declinedBuy>
+	<acceptedBuy>Du ejer nu feltet</acceptedBuy>
+	<taxChoice>Vil du betale 10 procent</taxChoice>
+	<taxChoice>eller</taxChoice>
+	<rollForRent>Kast Terningerne for at afgøre lejen.</rollForRent>
+	<buy>Vil du købe feltet til en pris på</buy>
+	<buy>Købe</buy>
+	<buy>Køb hus/hotel, til kr.</buy>
+	<sell>Sælge</sell>
+	<sell>Sælg hus/hotel, til kr.</sell>
+	<sell>Vil du sælge feltet?</sell>
+	<action>Vil du købe eller sælge?</action>
+	<nothing>Gør intet!</nothing>
+	<noMore>Du har allerede et hotel!</noMore>
+	<noMore>Du har ingen bygninger på dette felt!</noMore>
+	<broke>Du er gået bankerot og er ude af spillet!</broke>
+	<positionUpdate>Du landede på felt</positionUpdate>
+	<rollPrison>Slå med terningerne for at komme ud af fælgsel. </rollPrison>
+	<youGot>Du slog en</youGot>
+	<youGot>og en</youGot>
+	<load>Vil du indlæse et gemt spil, eller starte et nyt?</load>
+	<load>Nyt spil</load>
+	<load>Hent gemt spil</load>
+	<protertiesHere>Du kan ikke sælge, da du har huse eller hotel på grunden!</protertiesHere>
+	<protertiesHere>Du har valgt, ikke at sælge.</protertiesHere>
+	<parking>Du er landet på parkering, nyd livet!</parking>
+
+	<yes>Ja</yes>
+	<no>Nej</no>
+	<roll>Kast!</roll>
+	<taxButton>10 procent</taxButton>
+	<get>Du får</get>
+	<pay>Du skal betale</pay>
+	<fine>Bøde:</fine>
+	<bonus>Bonus ved passering: </bonus>
+	<ownable>Pris:</ownable>
+	<territory>leje:</territory>
+	<fleet>leje alt efter antal ejet fleets:</fleet>
+	<laborCamp>leje: antal øjne gange antal laborCamps gange 100</laborCamp>
+	<lucky>Måske er du heldig!</lucky>
+	<prison>Du er kommet i fængsel! - Du har nu 4 valgmuligheder</prison>
+	<prison>Betal Bøden: kr. 1000</prison>
+	<prison>Slå to ens, med terningerne</prison>
+	<prison>Brug fængselskort</prison>
+	<prison>Sid tiden ud.</prison>
+	<imprisoned>Du er i fængsel, næste spillers tur!</imprisoned>
+	
+	<Start>Start</Start>
+	<Rodovrevej>Rødovrevej</Rodovrevej>
+	<provLykken>Prøv Lykken</provLykken>
+	<Hvidovrevej>Hvidovrevej</Hvidovrevej>
+	<Indkomstskat>Betal Indkomstskat 10% eller 4000kr.</Indkomstskat>
+	<LBFaergerne>LB Færgerne</LBFaergerne>
+	<Roskildevej>Roskildevej</Roskildevej>
+	<valbyLanggade>Valby Langgade</valbyLanggade>
+	<Allaegade>Allægade</Allaegade>
+	<Faengsel2>På besøg!</Faengsel2>
+	<Faengsel1>De fængsles</Faengsel1>
+	<frederiksbergAlle>Frederiksberg Alle</frederiksbergAlle>
+	<Carlsberg>Carlsberg</Carlsberg>
+	<Bylowsvej>Bylowsvej</Bylowsvej>
+	<Kongevej>Gl. Kongevej</Kongevej>
+	<Danmark>Danmark</Danmark>
+	<Bernstorfvej>Bernstorfvej</Bernstorfvej>
+	<Hellerupvej>Hellerupvej</Hellerupvej>
+	<Strandvej>Strandvej</Strandvej>
+	<Parkering>Parkering</Parkering>
+	<Trianglen>Trianglen</Trianglen>
+	<Osterbrogade>Østerbrogade</Osterbrogade>
+	<Gronningen>Grønningen</Gronningen>
+	<molsLinien>Mols linien A/S</molsLinien>
+	<Bredgade>Bredgade</Bredgade>
+	<Nytorv>Kgs Nytorv</Nytorv>
+	<cocaCola>Coca-Cola</cocaCola>
+	<Ostergade>Østergade</Ostergade>
+	<Faengsel>De Fængsles</Faengsel>
+	<Amagertorv>Amagertorv</Amagertorv>
+	<Vimmelskaftet>Vimmelskaftet</Vimmelskaftet>
+	<Nygade>Nygade</Nygade>
+	<skandinaviskLinietrafik>Skandinavisk Linietrafik A/S</skandinaviskLinietrafik>
+	<Frederiksberggade>Frederiksberggade</Frederiksberggade>
+	<ekstraordinaerStatsskat>Ekstraordinær statsskat - betal kr. 2000</ekstraordinaerStatsskat>
+	<Raadhuspladsen>Rådhuspladsen</Raadhuspladsen>
+	
+	<cards>De modtager deres aktieudbytte. Modtag kr. 1000 af banken</cards>
+	<cards>Ryk frem til start.</cards>
+	<cards>Gå i fængsel. Ryk direkte til fængslet. Selvom de passere start, indkassere De ikke kr. 4000.</cards>
+	<cards>Gå i fængsel. Ryk direkte til fængslet. Selvom de passere start, indkassere De ikke kr. 4000.</cards>
+	<cards>De har været en tur i udlandet og har haft for mange cigaretter med hjem. Betal kr. 200 i told</cards>
+	<cards>De har modtaget deres tandlæge regning, betal kr. 2000.</cards>
+	<cards>De havde en række med 11 rigtige i tipning. Modtag kr. 1000</cards>
+	<cards>Deres præmieobligation er kommet ud. Modtag kr. 1000 af banken.</cards>
+	<cards>Deres præmieobligation er kommet ud. Modtag kr. 1000 af banken.</cards>
+	<cards>Det er deres fødselsdag. Modtag af hver spiller, kr. 200</cards>
+	<cards>Værdien af egen avl fra nyttehaven udgør 200kr. Modtag kr. 200 af banken.</cards>
+	<cards>Betal deres bilforsikring. Kr. 1000</cards>
+	<cards>Ejendomsskatterne er steget, ekstraudgifterne er: 800kr pr hus, 2300kr pr hotel.</cards>
+	<cards>Ryk frem til Grønningen, hvis De passere start. Indkasser da kr. 4000</cards>
+	<cards>Ryk brikken frem til det nærmeste redderi og betal ejeren to gange den leje, han ellers er berettiget til. Hvis selskabet ikke ejes af nogen, kan De købe det af banken.</cards>
+	<cards>Ryk brikken frem til det nærmeste redderi og betal ejeren to gange den leje, han ellers er berettiget til. Hvis selskabet ikke ejes af nogen, kan De købe det af banken.</cards>
+	<cards>Tag med LB-færgerne --- Flyt brikken frem, og hvis de passere start, indkasser da kr. 4000</cards>
+	<cards>I andledning af kongens fødselsdag benådes de herved for fængsel. Dette kort kan opbevares, indtil de får brug for det, eller de kan sælge det.</cards>
+	<cards>I andledning af kongens fødselsdag benådes de herved for fængsel. Dette kort kan opbevares, indtil de får brug for det, eller de kan sælge det.</cards>
+	<cards>Grundet dyrtiden har de fået gageforhøjelse. Modtag kr. 1000</cards>
+	<cards>Ryk frem til Frederiksberg Allé,. Hvis de passere start, indkasser da kr. 4000.</cards>
+	<cards>De har vundet i klasselotteriet, modtag kr. 500.</cards>
+	<cards>Tag ind på Rådhuspladsen.</cards>
+	<cards>Ryk tre felter tilbage.</cards>
+	<cards>Oliepriserne er steget, og De skal betale; kr. 500 pr hus, kr. 2000 pr hotel.</cards>
+	<cards>Betal kr. 3000 for reparation af deres vogn.</cards>
+	<cards>Betal kr. 3000 for reparation af deres vogn.</cards>
+	<cards>De modtager det store Matadorlegat for værdigt trængende, kr 40.000. Ved værdigt trængende forstås, at deres formue, dvs. deres kontakte penge, plus skøder, plus penge, ike overstiger kr. 15.000</cards>
+	<cards>Kommunen har eftergivet en kvartalsskat, hæv i banken kr. 3000.</cards>
+	<cards>Modtag udbytte af deres aktier, kr. 1000</cards>
+	<cards>Modtag udbytte af deres aktier, kr. 1000</cards>
+	<cards>De er kørt frem for fuld stop, betal kr. 1000 i bøde. </cards>
+	<cards>De har modtaget en parkeringsbåde, betal kr 200 i bøde.</cards>
+	<doubles>De har slået dobbelt, De får en ekstratur.</doubles>
+
+	//Language for game
+</strings>
